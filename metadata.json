@@ -1,0 +1,6 @@
+{
+  "name": "Placement Management System",
+  "description": "A comprehensive college placement cell web application for managing students, companies, job drives, applications, and placement results.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
